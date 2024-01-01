@@ -87,7 +87,7 @@ body {
   height: 30%;
   width: 40%;
   position: relative;
-  margin: 20px;
+  margin: 10px 0;
 }
 .timeline-item:nth-child(even) {
   align-self: flex-end;
